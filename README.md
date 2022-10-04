@@ -1,1 +1,1 @@
-# pdc_sc_project
+# SudokuVariantsGUI
